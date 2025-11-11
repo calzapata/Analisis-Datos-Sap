@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: DashboardMttopvSap
+Version: 0.1.0
+Summary: Paquete para limpieza y transformación de datos del Modulo PM de SAP
+Author: Carlos Zpa
+Author-email: calzapata18@Gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: numpy>=1.23.0

@@ -1,0 +1,15 @@
+setup.py
+DashboardMttopvSap/Avisos.py
+DashboardMttopvSap/Costos.py
+DashboardMttopvSap/Equipos.py
+DashboardMttopvSap/Lector.py
+DashboardMttopvSap/Orden.py
+DashboardMttopvSap/PuestoTrabajo.py
+DashboardMttopvSap/Solped.py
+DashboardMttopvSap/Utils.py
+DashboardMttopvSap/__init__.py
+DashboardMttopvSap.egg-info/PKG-INFO
+DashboardMttopvSap.egg-info/SOURCES.txt
+DashboardMttopvSap.egg-info/dependency_links.txt
+DashboardMttopvSap.egg-info/requires.txt
+DashboardMttopvSap.egg-info/top_level.txt
