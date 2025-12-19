@@ -23,3 +23,5 @@ __all__ = [
     "leerExcel",
     "utils"
 ]
+
+# Fin del archivo __init__.py

@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 class Avisos:
     
     clase_aviso_mapping = {
